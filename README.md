@@ -22,15 +22,15 @@ The project follows a complete machine learning workflow including data preproce
   - Draw
   - Away Win
 
--The project uses historical English Premier League match data from **five consecutive seasons**:
+- The project uses historical English Premier League match data from **five consecutive seasons**:
 
- - 2021–22
- - 2022–23
- - 2023–24
- - 2024–25
- - 2025–26
+  - 2021–22
+  - 2022–23
+  - 2023–24
+  - 2024–25
+  - 2025–26
 
--These datasets were combined into a single dataframe before preprocessing and feature engineering.
+- These datasets were combined into a single dataframe before preprocessing and feature engineering.
 
 ---
 
