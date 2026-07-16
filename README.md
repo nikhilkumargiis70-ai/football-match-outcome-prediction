@@ -21,6 +21,7 @@ The project follows a complete machine learning workflow including data preproce
   - Home Win
   - Draw
   - Away Win
+
 -The project uses historical English Premier League match data from **five consecutive seasons**:
 
  - 2021–22
